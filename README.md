@@ -156,3 +156,6 @@ python3 eval_engine.py
 
 - Axelrod, R. (1984). *The Evolution of Cooperation.*
 - Problem inspired by Robert Axelrod's Strategy Comparison Games.
+- [Prisoner's Dilemma](https://www.youtube.com/watch?v=BOvAbjfJ0x0)
+- [Iterated Prisoner's Dilemma](https://www.youtube.com/watch?v=emyi4z-O0ls)
+- [Prisoner's Dilemma / Game Theory](https://www.youtube.com/watch?v=mScpHTIi-kM) - really nice vid, had watched this even before i ever got to know about this challenge
