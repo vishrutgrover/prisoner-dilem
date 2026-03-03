@@ -6,8 +6,6 @@
 
 This repository contains my approaches for the **Iterated Prisoner's Dilemma (IPD)** challenge at APOGEE, the technical fest of BITS Pilani, including attempts for both **APOGEE'24** and **APOGEE'25**.
 
----
-
 ## Theory
 
 ### The Prisoner's Dilemma
@@ -32,8 +30,6 @@ Individually, defecting always yields a better or equal outcome than cooperating
 In the **Iterated Prisoner's Dilemma (IPD)**, the same two players face each other repeatedly over many rounds. Each round is a one-shot Prisoner's Dilemma, but now players can use the history of play to inform their choices.
 
 This changes everything. Strategies like **Tit for Tat** (cooperate first, then copy the opponent's last move) can thrive: they reward cooperation and punish defection. Robert Axelrod's famous tournaments in the 1980s showed that simple, nice, forgiving strategies often outperform purely selfish ones when the game is repeated. The possibility of future interaction makes cooperation rational.
-
----
 
 ## Overview
 
@@ -131,8 +127,6 @@ cd test_archives   # or: cd IteratedPrisonersDilemma
 python3 eval_engine.py
 ```
 
----
-
 ## Move Encoding
 
 - `1` = Cooperate  
@@ -152,6 +146,6 @@ python3 eval_engine.py
 
 - Axelrod, R. (1984). *The Evolution of Cooperation.*
 - Problem inspired by Robert Axelrod's Strategy Comparison Games.
-- [Prisoner's Dilemma](https://www.youtube.com/watch?v=BOvAbjfJ0x0)
-- [Iterated Prisoner's Dilemma](https://www.youtube.com/watch?v=emyi4z-O0ls)
-- [Prisoner's Dilemma / Game Theory](https://www.youtube.com/watch?v=mScpHTIi-kM) - really nice vid, had watched this even before i ever got to know about this challenge
+- [The Iterated Prisoner's Dilemma and The Evolution of Cooperation](https://www.youtube.com/watch?v=BOvAbjfJ0x0) - This Place
+- [How to outsmart the Prisoner's Dilemma](https://www.youtube.com/watch?v=emyi4z-O0ls) - TED-Ed
+- [This game theory problem will change the way you see the world](https://www.youtube.com/watch?v=mScpHTIi-kM) - Veritasium - really nice vid, had watched this even before i ever got to know about this challenge
