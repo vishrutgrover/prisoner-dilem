@@ -12,9 +12,7 @@ This repository contains my approaches for the **Iterated Prisoner's Dilemma (IP
 
 ### The Prisoner's Dilemma
 
-<p align="center">
-  <img src="pridimmpic.png" alt="Prisoner's Dilemma" width="80%">
-</p>
+<img src="pridimmpic.png" alt="Prisoner's Dilemma" width="60%" align="left" style="margin-right: 1em;">
 
 The **Prisoner's Dilemma** is a classic game-theory scenario. Two prisoners are held separately and each must choose to either **cooperate** (stay silent) or **defect** (betray the other). The twist: neither knows what the other will do.
 
@@ -29,9 +27,7 @@ Individually, defecting always yields a better or equal outcome than cooperating
 
 ### The Iterated Prisoner's Dilemma
 
-<p align="center">
-  <img src="iterpnas.png" alt="Iterated Prisoner's Dilemma" width="80%">
-</p>
+<img src="iterpnas.png" alt="Iterated Prisoner's Dilemma" width="60%" align="left" style="margin-right: 1em;">
 
 In the **Iterated Prisoner's Dilemma (IPD)**, the same two players face each other repeatedly over many rounds. Each round is a one-shot Prisoner's Dilemma, but now players can use the history of play to inform their choices.
 
