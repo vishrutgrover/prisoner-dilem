@@ -1,0 +1,3 @@
+[submodule "IteratedPrisonersDilemma"]
+	path = IteratedPrisonersDilemma
+	url = https://github.com/AddictivelyRecursive/IteratedPrisonersDilemma.git
