@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="apogee24.png" alt="APOGEE'24" width="48%">
-  <img src="apogee25.png" alt="APOGEE'25" width="48%">
+  <img src="apogee25.png" alt="APOGEE'25" width="100%">
+  <img src="apogee24.png" alt="APOGEE'24" width="100%">
 </p>
 
 # Iterated Prisoner's Dilemma - APOGEE'24 & APOGEE'25
