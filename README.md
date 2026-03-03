@@ -148,4 +148,4 @@ python3 eval_engine.py
 - Problem inspired by Robert Axelrod's Strategy Comparison Games.
 - [The Iterated Prisoner's Dilemma and The Evolution of Cooperation](https://www.youtube.com/watch?v=BOvAbjfJ0x0) - This Place
 - [How to outsmart the Prisoner's Dilemma](https://www.youtube.com/watch?v=emyi4z-O0ls) - TED-Ed
-- [This game theory problem will change the way you see the world](https://www.youtube.com/watch?v=mScpHTIi-kM) - Veritasium - really nice vid, had watched this even before i ever got to know about this challenge
+- [This game theory problem will change the way you see the world](https://www.youtube.com/watch?v=mScpHTIi-kM) - Veritasium - really nice vid, had watched this even before I ever got to know about this challenge
