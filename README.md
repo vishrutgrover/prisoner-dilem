@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apogee25.png" alt="APOGEE'25" width="100%">
+  <img src="apogee25.png?v=2" alt="APOGEE'25" width="100%">
   <img src="apogee24.png" alt="APOGEE'24" width="100%">
 </p>
 
